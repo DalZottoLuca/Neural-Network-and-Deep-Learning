@@ -1,5 +1,5 @@
 # NNDL
-Neural Network and Deep Learning course 
+Neural Network and Deep Learning course - Data Science Master Degree - Unipd
 
 ### Homework 1 - Supervised Deep Learning
   - 2 pt: implement basic regression and classification tasks
