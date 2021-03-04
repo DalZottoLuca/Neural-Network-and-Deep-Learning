@@ -3,9 +3,13 @@ Neural Network and Deep Learning course
 
 ## Homework 1 - Supervised Deep Learning
   • 2 pt: implement basic regression and classification tasks
+  
   • 2 pt: explore advanced optimizers and regularization methods
+  
   • 1 pt: optimize hyperparameters using grid/random search and cross-validation
+  
   • 2 pt: implement CNN for classification task
+  
   • 1 pt: visualize weight histograms, activation profiles and receptive fields
 
 ## Homework 2 - Unsupervised Deep Learning
