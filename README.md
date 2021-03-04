@@ -13,13 +13,13 @@ Neural Network and Deep Learning course
   • 1 pt: visualize weight histograms, activation profiles and receptive fields
 
 ## Homework 2 - Unsupervised Deep Learning
-  • 1 pt: implement and test (convolutional) autoencoder, reporting the trend of reconstruction loss and some examples of image reconstruction
-  • 1 pt: explore advanced optimizers and regularization methods
-  • 1 pt: optimize hyperparameters using grid/random search and cross-validation
-  • 1 pt: implement and test denoising (convolutional) autoencoder
-  • 1 pt: fine-tune the (convolutional) autoencoder using a supervised classification task
-  • 1 pt: explore the latent space structure (e.g., PCA, t-SNE) and generate new samples from latent codes
-  • 2 pt: implement variational (convolutional) autoencoder
+  - 1 pt: implement and test (convolutional) autoencoder, reporting the trend of reconstruction loss and some examples of image reconstruction
+  - 1 pt: explore advanced optimizers and regularization methods
+  - 1 pt: optimize hyperparameters using grid/random search and cross-validation
+  - 1 pt: implement and test denoising (convolutional) autoencoder
+  - 1 pt: fine-tune the (convolutional) autoencoder using a supervised classification task
+  - 1 pt: explore the latent space structure (e.g., PCA, t-SNE) and generate new samples from latent codes
+  - 2 pt: implement variational (convolutional) autoencoder
   
 ## Homework 3 - Deep Reinforcement Learning
   • 2 pt: study how the exploration profile impacts the learning curve. Tune the model hyperparameters or tweak the reward function in order to speed-up learning convergence
