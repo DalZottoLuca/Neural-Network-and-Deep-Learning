@@ -17,7 +17,7 @@ Neural Network and Deep Learning course
   - 1 pt: explore the latent space structure (e.g., PCA, t-SNE) and generate new samples from latent codes
   - 2 pt: implement variational (convolutional) autoencoder
   
-#### Homework 3 - Deep Reinforcement Learning
+### Homework 3 - Deep Reinforcement Learning
   - 2 pt: study how the exploration profile impacts the learning curve. Tune the model hyperparameters or tweak the reward function in order to speed-up learning convergence
   - 3 pt: learn to control the CartPole environment using directly the screen pixels, rather than the compact state representation 
   - 3 pt: train a deep RL agent on a different Gym environment
