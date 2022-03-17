@@ -1,4 +1,4 @@
-# NNDL
+# Neural Networks and Deep Learning
 Neural Network and Deep Learning course - Data Science Master Degree - Unipd
 
 ### Homework 1 - Supervised Deep Learning
